@@ -6,7 +6,7 @@ As a **Full-Stack Developer** with over nine years of experience, I’ve had the
 
 ### 🚀 What I Do
 
-- **🔧 Full-Stack Development:** I specialize in both backend and frontend technologies, mastering languages like Ruby, Python, JavaScript, and frameworks such as Ruby on Rails, Vue.js, Nuxt.js, and Stimulus. From building robust APIs to crafting intuitive UIs, I ensure that every part of an application works harmoniously.
+- **🔧 Full-Stack Development:** I specialize in both backend and frontend technologies, mastering languages like Ruby, Python, JavaScript, and frameworks such as Ruby on Rails,FastAPI, Vue.js, Nuxt.js, and Stimulus. From building robust APIs to crafting intuitive UIs, I ensure that every part of an application works harmoniously.
 
 - **⚙️ DevOps & CI/CD:** Streamlining processes is my forte. I leverage tools like Docker, Kubernetes, and cloud platforms like Google Cloud and AWS to automate and enhance deployment pipelines, ensuring reliable, fast, and scalable releases.
 
