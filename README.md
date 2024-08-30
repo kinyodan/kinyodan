@@ -9,7 +9,7 @@ Technical Mastery: Proficient in Ruby, Ruby on Rails, Python, JavaScript, and mo
 
 DevOps & CI/CD: Experienced with Heroku, Docker, Kubernetes, and cloud platforms like Google Cloud and AWS. My work has streamlined deployment processes, improving system reliability and reducing deployment times.
 
-Leadership & Collaboration: As a mentor and SCRUM team leader, I've consistently enhanced project management efficiency and delivery. 
+Leadership & Collaboration: As a SCRUM manager, I've consistently enhanced project management efficiency and delivery. 
 
 Innovation & Problem Solving: Identifying inefficiencies and crafting innovative solutions is a key strength I bring to every project.
 
