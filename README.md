@@ -1,13 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-I have a strong solid background of 1+ years in Web Development. I have developed many web-based applications which includes , online training software, etc.
-</p>
 
-<div align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-panteleev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osim-kumar-roy-akash-164418184)](https://www.linkedin.com/in/osim-kumar-roy-akash-164418184)
-</div>
  
 <br>
 
