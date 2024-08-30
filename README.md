@@ -1,4 +1,29 @@
-<h1 align="center">Hi there 👋</h1>
+# Welcome to My GitHub! 👋
+
+### I'm Daniel Kinyo—Building the Future of Software, One Line of Code at a Time.
+
+As a **Full-Stack Developer** with over nine years of experience, I’ve had the privilege of crafting scalable, efficient, and user-centric software solutions across various industries. My journey has been a blend of deep technical expertise, innovative problem-solving, and collaborative leadership—all driven by a passion for creating impactful digital experiences.
+
+### 🚀 What I Do
+
+- **🔧 Full-Stack Development:** I specialize in both backend and frontend technologies, mastering languages like Ruby, Python, JavaScript, and frameworks such as Ruby on Rails, Vue.js, Nuxt.js, and Stimulus. From building robust APIs to crafting intuitive UIs, I ensure that every part of an application works harmoniously.
+
+- **⚙️ DevOps & CI/CD:** Streamlining processes is my forte. I leverage tools like Docker, Kubernetes, and cloud platforms like Google Cloud and AWS to automate and enhance deployment pipelines, ensuring reliable, fast, and scalable releases.
+
+- **👥 Leadership & Mentorship:** I thrive in collaborative environments. As a SCRUM team leader, I guide teams through complex projects, ensuring clear communication, efficient sprint management, and high-quality deliveries.
+
+- **💡 Innovation & Problem-Solving:** Whether it’s increasing operational efficiency , I’m always on the lookout for new challenges. My approach combines creativity with technical acumen to tackle inefficiencies and deliver powerful results.
+
+### 📈 What’s Next?
+
+I’m always looking for the next big challenge—whether it’s helping a startup scale, leading a team to success, or pioneering the future of tech. If you’re looking for a dedicated, innovative, and results-driven developer to join your team, let’s connect! You can reach me at kinyodaniel@outlook.com or +254 791 199 816.
+
+### 🔗 Let's connect and collaborate! 🚀
+<!--
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.com)
+- [Twitter](https://twitter.com/yourhandle)
+
 
 <p>
 With over nine years of experience as a full-stack developer, I bring a wealth of expertise in both backend and frontend technologies. My journey has been marked by delivering scalable and user-friendly applications, always with a focus on quality and innovation.
@@ -15,6 +40,7 @@ Innovation & Problem Solving: Identifying inefficiencies and crafting innovative
 
 Let's connect and collaborate! 🚀
 </p>
+-->
  
 <br>
 
