@@ -22,11 +22,11 @@ Let's connect and collaborate! 🚀
 <p float="left">
   <img src="ruby.png" height="48px">
   <img src="python-logo-master-v3-TM.png" height="48px">
-  <img src="mysql.png" height="48px">
-  <img src="javascript.png" height="48px">
   <img src="vuejs.png" height="48px"> 
+  <img src="javascript.png" height="48px">
   <img src="react.png" height="48px">
-\ <img src="bootstrap5.png" height="48px">          
+  <img src="mysql.png" height="48px">
+  <img src="bootstrap5.png" height="48px">          
   <img src="css.png" height="48px">   
   <img src="html-5.png" height="48px">
   <img src="webpack.svg" height="48px">    
