@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-### I'm Daniel Kinyo—Building the Future of Software, One Line of Code at a Time.
+### I'm Daniel Kinyo—Turning Complex Challenges into Elegant Software Solutions, One Line of Code at a Time.
 
 As a **Full-Stack Developer** with over nine years of experience, I’ve had the privilege of crafting scalable, efficient, and user-centric software solutions across various industries. My journey has been a blend of deep technical expertise, innovative problem-solving, and collaborative leadership—all driven by a passion for creating impactful digital experiences.
 
