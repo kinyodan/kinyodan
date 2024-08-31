@@ -47,7 +47,7 @@ Let's connect and collaborate! 🚀
 <h4>Some of the technologies that I use are: </h4>
 <p float="left">
   <img src="ruby.png" height="48px">
-  <img src="python-logo-master-v3-TM.png" height="48px">
+  <img src="Python.png" height="48px">
   <img src="vuejs.png" height="48px"> 
   <img src="javascript.png" height="48px">
   <img src="react.png" height="48px">
