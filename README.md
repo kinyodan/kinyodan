@@ -10,7 +10,7 @@ As a **Full-Stack Developer** with over nine years of experience, I’ve had the
 
 - **⚙️ DevOps & CI/CD:** Streamlining processes is my forte. I leverage tools like Docker, Kubernetes, and cloud platforms like Google Cloud and AWS to automate and enhance deployment pipelines, ensuring reliable, fast, and scalable releases.
 
-- **👥 Leadership & Mentorship:** I thrive in collaborative environments. As a SCRUM team leader, I guide teams through complex projects, ensuring clear communication, efficient sprint management, and high-quality deliveries.
+- **👥 Leadership :** I thrive in collaborative environments. As a SCRUM team leader, I guide teams through complex projects, ensuring clear communication, efficient sprint management, and high-quality deliveries.
 
 - **💡 Innovation & Problem-Solving:** Whether it’s increasing operational efficiency , I’m always on the lookout for new challenges. My approach combines creativity with technical acumen to tackle inefficiencies and deliver powerful results.
 
