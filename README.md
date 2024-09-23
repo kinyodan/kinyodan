@@ -16,7 +16,7 @@ As a **Full-Stack Developer** with over nine years of experience, I’ve had the
 
 ### 📈 What’s Next?
 
-I’m always looking for the next big challenge—whether it’s helping a startup scale, leading a team to success, or pioneering the future of tech. If you’re looking for a dedicated, innovative, and results-driven developer to join your team, let’s connect! You can reach me at kinyodaniel@outlook.com or +254 791 199 816.
+I’m always looking for the next big challenge—whether it’s helping a startup scale, leading a team to success, or pioneering the future of tech. If you’re looking for a dedicated, innovative, and results-driven developer to join your team, let’s connect! You can reach me at kinyodaniel@outlook.com .
 
 ### 🔗 Let's connect and collaborate! 🚀
 <!--
