@@ -2,7 +2,7 @@
 
 ### I'm Daniel Kinyo—Turning Complex Challenges into Elegant Software Solutions, One Line of Code at a Time.
 
-As a **Full-Stack Developer** with over nine years of experience, I’ve had the privilege of crafting scalable, efficient, and user-centric software solutions across various industries. My journey has been a blend of deep technical expertise, innovative problem-solving, and collaborative leadership—all driven by a passion for creating impactful digital experiences.
+As a **Full-Stack Developer** with over 10 years of experience, I’ve had the privilege of crafting scalable, efficient, and user-centric software solutions across various industries. My journey has been a blend of deep technical expertise, innovative problem-solving, and collaborative leadership—all driven by a passion for creating impactful digital experiences.
 
 ### 🚀 What I Do
 
